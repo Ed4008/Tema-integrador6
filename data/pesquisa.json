@@ -1,0 +1,11 @@
+{
+  "totalRespondentes": 12,
+  "barreiras": {
+    "imagensSemDescricao": 70,
+    "videosSemLegenda": 50,
+    "baixoContraste": 20,
+    "botoesPequenos": 40
+  }
+}
+
+
